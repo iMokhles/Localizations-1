@@ -1,0 +1,24 @@
+"AGAPE_DATABASE_ERROR" = "C'è stato un errore nel comunicare con il server, per favore prova di nuovo tra un paio di minuti. Se il problema persiste contattami dal tasto di supporto nella pagina principale.";
+"AGAPE_ERROR" = "Qualcosa è andato terribilmente storto, fate suonare gli allarmi! Sul serio comunque, se vedi questo messaggio qualcosa è andato storto.";
+"AGAPE_LICENSE_DEPLETED" = "Mi dispiace ma non ci sono più licenze disponibili per questo regalo. Selezionane un altro";
+"AGAPE_NOT_STARTED" = "Grazie per l'entusiasmo ma il concorso non è ancora iniziato! Sei comunque invitato a riempire le informazioni e tenerle pronte quando il concorso inizia davvero.";
+"AGAPE_OVER" = "Mi dispiace ma il concorso è finito, sei arrivato tardi. Ci saranno altre possibilità quindi non preoccuparti :)";
+"AGAPE_REQUEST_RECEIVED" = "Grazie per la tua richiesta. È stata inviata ed è in attesa di attivazione, quindi per favore aspetta fino ad un paio d'ore per la registrazione.";
+"AGAPE_REQUEST_ALREADY_RECEIVED" = "Hai già richiesto un regalo. È consentito solo un regalo per utente.";
+
+"CREDITS_FOOTER_TEXT" = "Agape © 2014 CP Digital Darkroom";
+"DESIRED_TWEAK" = "Regalo Desiderato";
+"DONATE" = "Dona";
+"GIVEAWAY_FOOTER" = "Il concorso durerà un'ora. Durante il concorso potrai scegliere un tweak a tuo piacimento. Una volta scelto e inviato, il tweak non sarà più valido.";
+
+"GIVEAWAY_GIFT_NOTICES" = "¹ - limitata a 10 copie ciascuno.
+² - nelle fasi iniziali beta per iOS 8. Questo regalo iniziale vi permetterà di prendere parte al prossimo accesso beta.
+³ - limitata a 50 licenze.
+⁴ - limitata a 50 licenze.
+⁵ - limitata a 50 licenze.";
+
+"GIVEAWAYS" = "Concorsi";
+"OK" = "Ok";
+"PARTICIPENTS" = "Partecipanti";
+"PARTICIPATING_DEVS" = "Sviluppatori Partecipanti";
+"SUPPORT" = "Supporto";

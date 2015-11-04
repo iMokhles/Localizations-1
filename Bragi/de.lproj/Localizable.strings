@@ -1,0 +1,43 @@
+"ADD_TO_REACHABILITY" = "Zur Reachability Ansicht hinzufügen.";
+
+"ALBUM_ART_CORNER_RADIUS" = "Album-Art Ecken-Radius";
+
+"ALBUM_ART_RADIUS_FOOTER_TEXT" = "Nicht bei jedem Ansichten-Layout wird eine kleine Album-Art angezeigt, aber falls die von Ihnen gewählte Ansicht es unterstützt, wird der Ecken-Radius entsprechend angepasst. \n *Nummer anklicken für manuelle Eingabe. Dezimalzahlen werden in diesem Pop-Up noch nicht unterstützt.";
+
+"ART_OVERLAY_THEME" = "Art-Overlay Aussehen";
+
+"CHANGE_REQUIRES_RESPRING" = "Das Auswählen dieser Option erfordert einen Respring des Geräts.";
+
+"COLORIZE_CONTROL_CENTER" = "Kontrollzentrum einfärben";
+
+"COLORIZE_CONTROL_CENTER_FOOTER" = "Ist Option aktiviert, wird Bragi versuchen das Kontrollzentrum passend der Album-Art einzufärben. Dieses Feature ist noch experimentell, wird aber mit der Zeit verbessert.";
+
+"CONFIGURATION" = "Einstellungen";
+
+"DEFAULT_MUSIC_PLAYER" = "Standard Musik-App";
+
+"DEFAULT_MUSIC_PLAYER_FOOTER" = "Wird keine Musik abgespielt, öffnet ein Klick auf die leere Album-Art die ausgewählte Standart Musik-App.";
+
+"ENABLE" = "Aktivieren";
+
+"HIDE_HEART" = "Herz ausblenden";
+
+"HIDE_SHARE" = "Teilen-Option ausblenden";
+
+"INVERT_FOOTER_TEXT" = "Aktivieren für: Nach Links wischen um zum nächsten Song zu wechseln und nach Rechts wischen um zum vorigen Song zu gelangen. (Normal ist es umgekehrt)";
+
+"INVERT_SWIPE_ACTIONS" = "Wisch-Gesten umkehren";
+
+"MAKERS" = "Macher";
+
+"SUPPORT" = "Support";
+
+"TRANSLATION_CREDITS" = "Übersetzer";
+
+"USE_CUSTOM_COVER_OVERLAY" = "Benutzerdefiniertes Album-Art Overlay benutzen";
+
+"USE_BLURREDVIEW_IN_CC" = "Reachability-Style im Kontrollzentrum benutzen";
+
+"USE_VIBRANCY_LABELS" = "Durchscheinende Schriften benutzen";
+
+"VIBRANCY_LABELS_FOOTER" = "Durchscheinende Schriften beeinflussen nur die Reachability-Style Ansicht. Die Reachability-Style Ansicht muss für das Kontrollzentrum aktiviert sein.";
